@@ -1,7 +1,7 @@
-# FloorRun
-Project is too big for github so i can't upload it. I have added only some scripts.
+# SKYRUN
+I have uploaded only some scripts on github.
 
-**Floor Run 1.1.7z** is the full working release (for Windows).
+**SKYRUN 1.1.7z** is the full working release (for Windows).
 
 
 ![demo1](demo1.jpg)
