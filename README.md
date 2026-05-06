@@ -1,4 +1,4 @@
-# SKYRUN
+# SKYRUN v1.0 
 I have uploaded only some scripts on github.
 
 **SKYRUN 1.1.7z** is the full working release (for Windows).
